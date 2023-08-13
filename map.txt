@@ -1,0 +1,41 @@
+################################################################################
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                     a#
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhh                                      #
+#--bbbb--------------------------bbbb--hh                   |                  #
+#--bbbb--------------------------bbbb--hh                   |                  #
+################################################################################
